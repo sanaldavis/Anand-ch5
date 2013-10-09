@@ -1,0 +1,5 @@
+
+	pt=open('%d.txt'%i,'a')
+	for lines in line:
+		pt.write(lines)
+	pt.close()	

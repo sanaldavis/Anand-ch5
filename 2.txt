@@ -1,0 +1,5 @@
+		insert(data[j:j+no],i)
+		j=j+no
+		i=i-1
+
+def insert(line,i):

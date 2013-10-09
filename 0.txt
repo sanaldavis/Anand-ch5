@@ -1,0 +1,2 @@
+
+split(sys.argv[0],int(sys.argv[1]))

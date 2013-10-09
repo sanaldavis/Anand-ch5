@@ -1,0 +1,5 @@
+	data=f.readlines()
+	print data,len(data)	
+	i=len(data)/no
+	print i
+	while i>=0:

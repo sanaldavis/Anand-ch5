@@ -1,0 +1,5 @@
+import os
+import sys
+
+def split(fname,no,j=0):
+	f=open(fname,'r')
